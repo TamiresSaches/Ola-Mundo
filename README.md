@@ -20,10 +20,10 @@ Só sei pelo repositório remoto, teria essa opção no rep. local?
 2. Caramelo - Cachorro
 
 *Lista de Tarefas*
--[x] Git/GitHub
--[x] Excel
--[x] Power BI
--[ ] Criar uma página
+- [x] Git/GitHub
+- [x] Excel
+- [x] Power BI
+- [ ] Criar uma página
 
 Tabela:
 Num | Nome | Nota
