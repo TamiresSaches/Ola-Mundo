@@ -38,3 +38,6 @@ Meu primeiro programa em Python
 ```
 Print{"Hello World"}
 ```
+
+**Terceiro dia:** Aprendendo Git Branch e Merge.
+Criando um site com html e css.
