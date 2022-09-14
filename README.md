@@ -1,5 +1,5 @@
-#Olá, Mundo!
-##Este é meu primeiro projeto
+# Olá, Mundo!
+## Este é meu primeiro projeto
 
 Aqui vou colocar meu passo a passo:
 **Primeiro dia:** Criando meu primeiro repositório
@@ -12,7 +12,7 @@ Aqui vou colocar meu passo a passo:
  * Repositório Local
  * Repositório Remoto
 
-~~ Adicionando imagens ~~
+~~Adicionando imagens~~
 Só sei pelo repositório remoto, teria essa opção no rep. local?
 
 *Lista de animais*
@@ -20,10 +20,10 @@ Só sei pelo repositório remoto, teria essa opção no rep. local?
 2. Caramelo - Cachorro
 
 *Lista de Tarefas*
-- { } Git/GitHub
-- { } Excel
-- { } Power BI
-- { } Criar uma página
+- {} Git/GitHub
+- {} Excel
+- {} Power BI
+- {} Criar uma página
 
 Tabela:
 Num | Nome | Nota
@@ -34,7 +34,7 @@ Num | Nome | Nota
 
 [Acesse meu GitHub](https://github.com/TamiresSaches)
 
-Meu programa em Python
+Meu primeiro programa em Python
 ```
 Print{"Hello World"}
 ```
